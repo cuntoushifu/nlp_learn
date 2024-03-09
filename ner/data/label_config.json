@@ -1,0 +1,194 @@
+[
+  {
+    "id": 19,
+    "text": "主体",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 20,
+    "text": "属于",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#009CE0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 21,
+    "text": "宾语",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 22,
+    "text": "时间节点",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 23,
+    "text": "货物（空、进、出、进出口）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 24,
+    "text": "单证及说明文件",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 25,
+    "text": "法规",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 26,
+    "text": "惩罚",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#AEA1FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 27,
+    "text": "手续",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 29,
+    "text": "申报媒介",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#16A5A5",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 30,
+    "text": "申报方式形式（纸质、电子、联网等）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0062B1",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 31,
+    "text": "特殊情况",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 32,
+    "text": "人员",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#009CE0",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 33,
+    "text": "地点（海关）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FCDC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 34,
+    "text": "申报日期（文本）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 35,
+    "text": "贸易信息",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 36,
+    "text": "提取货样（文本）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#AB149E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 37,
+    "text": "逾期（文本）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FB9E00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 38,
+    "text": "提前（文本）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#68CCCA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 39,
+    "text": "许可证有效期",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FCC400",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 40,
+    "text": "税率、汇率（文本）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 41,
+    "text": "集中申报",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#AB149E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 42,
+    "text": "补充申报",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#0C797D",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 43,
+    "text": "特殊运输方式（具体）",
+    "prefixKey": null,
+    "suffixKey": null,
+    "backgroundColor": "#FDA1FF",
+    "textColor": "#ffffff"
+  }
+]
