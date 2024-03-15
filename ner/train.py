@@ -5,6 +5,9 @@ import json
 import os
 from tqdm import tqdm
 
+
+model_path='/Users/yangye/github/bert-base-chinese'
+
 class CustomDataset(Dataset):
     def __init__(self, data_path, tokenizer, label_map, max_len=512):
         self.tokenizer = tokenizer
@@ -72,11 +75,11 @@ label_map = {
     "特殊运输方式（具体）": 22
 }
 
-tokenizer = BertTokenizerFast.from_pretrained("/workai/models/bert-base-chinese")
+tokenizer = BertTokenizerFast.from_pretrained(model_path)
 
-model = BertForTokenClassification.from_pretrained("/workai/models/bert-base-chinese", num_labels=len(label_map))
+model = BertForTokenClassification.from_pretrained(model_path, num_labels=len(label_map))
 
-data_path = "/workai/yangye/ner/data/data.jsonl"
+data_path = "./data/data.jsonl"
 dataset = CustomDataset(data_path, tokenizer, label_map)
 
 train_loader = DataLoader(dataset, batch_size=8, shuffle=True)
