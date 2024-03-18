@@ -3,5 +3,8 @@
   <component name="Black">
     <option name="sdkName" value="py311" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="py311" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="nlp_learn" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
